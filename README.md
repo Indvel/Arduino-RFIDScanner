@@ -1,7 +1,7 @@
 # Arduino-RFIDScanner
 It shows RFID info using RC522 sensor in Arduino.
 
-You should send data with pattern like this:<br>
+You should send data with patterns like this:<br>
 RFID Info : <b>"{UID}/{SAK}/{PICC_Type}"</b> <=== "/" is separator<br>
 Firmware Version : <b>"{version}-{HexValue}"</b> <=== "-" is separator<br>
 
