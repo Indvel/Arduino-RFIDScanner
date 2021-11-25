@@ -14,4 +14,4 @@ Translating for non-Koreans:<br>
 포트스캔 : Scan SerialPorts<br>
 연결 : Connect<br>
 연결해제 : Disconnect<br>
-가져오기 : Get sensor firmware version<br>
+가져오기 : Getting sensor firmware version<br>
